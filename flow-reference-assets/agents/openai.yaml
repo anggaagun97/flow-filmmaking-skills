@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flow: Aset Referensi"
+  short_description: "Character sheet, prop sheet, dan set untuk Flow"
+  default_prompt: "Gunakan $flow-reference-assets untuk menyiapkan referensi karakter, properti, dan set dari brief proyek saya."

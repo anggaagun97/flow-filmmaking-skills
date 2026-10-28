@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flow: Naskah dan Shot List"
+  short_description: "Susun cerita, blocking, kamera, dan kontinuitas"
+  default_prompt: "Gunakan $flow-script-shotlist untuk mengubah ide saya menjadi naskah dan shot list yang siap diproduksi di Google Flow."

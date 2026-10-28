@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flow: Prompt Video"
+  short_description: "Prompt Veo dan Omni dengan kamera serta negative"
+  default_prompt: "Gunakan $flow-video-prompts untuk menulis prompt siap salin dari shot list saya untuk Google Flow."
