@@ -74,3 +74,8 @@ Untuk revisi, jelaskan perubahan utama dan berikan prompt penggantinya atau inst
 Skill ini menulis prompt; jalankan generasi hanya bila pengguna juga meminta eksekusi. Koreksi format atau pembahasan hasil bukan izin otomatis untuk render ulang. Penggabungan klip pada workflow pengguna ini dilakukan manual.
 
 Saat eksekusi diminta: gunakan satu varian per shot dan retry otomatis 0 sebagai awal, tetapkan jumlah generasi yang direncanakan dan biaya yang diketahui. Bila integrasi gagal atau respons ambigu, hentikan submit berikutnya dan cocokkan job dengan aset proyek sebelum mengulang; status gagal pada MCP tidak membuktikan provider belum membuat atau menagih klip. Ambil hasil yang sudah ada lewat download. Diagnosis MCP tidak boleh menjadi rangkaian tes generasi berbayar. Rekonsiliasi saldo dan jumlah aset setelah ketidakpastian sebelum melanjutkan. Batas pengeluaran mencakup seluruh percobaan, bukan hanya klip terpilih; berhenti sebelum batas terlampaui. Buat revisi terarah hanya untuk kegagalan yang menghalangi tujuan shot, dalam ruang iterasi yang telah diizinkan pengguna.
+
+
+## Referensi gerak kamera visual
+
+Untuk riset atau cheat sheet gerak kamera, gunakan Google Flow dengan model Omni Flash 1.1, durasi 4 detik, satu varian per gerakan, lalu simpan hasil sebagai GIF tertaut (bukan embed/base64). Setiap gerakan harus diberi label dan prompt tetap memuat lintasan kamera yang eksplisit, focal length, framing, aperture, fokus/bokeh/DoF, lighting, atmosfer, serta karakter film. GIF adalah interpretasi edukatif untuk membandingkan rasa gerak—bukan pengukuran presisi lintasan kamera.
