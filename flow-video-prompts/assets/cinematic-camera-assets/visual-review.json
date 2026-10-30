@@ -1,0 +1,53 @@
+{
+  "method": "Sequential-frame visual review; no calibrated trajectory claim",
+  "clips": {
+    "10": {
+      "accepted": true,
+      "observed": "Subjek dan detail latar membesar bersama dari sudut pandang yang relatif tetap; contoh zoom in generatif."
+    },
+    "11": {
+      "accepted": true,
+      "observed": "Versi koreksi menjaga ukuran karakter relatif stabil sementara elemen latar membesar lebih kuat; kompensasi perspektif bersifat generatif, bukan presisi terukur."
+    },
+    "00": {
+      "accepted": true,
+      "observed": "Framing stabil tanpa gerak kamera yang disengaja; ada perubahan kecil pada subjek."
+    },
+    "01": {
+      "accepted": true,
+      "observed": "Subjek membesar dengan perubahan hubungan foreground dan latar saat kamera mendekat."
+    },
+    "02": {
+      "accepted": true,
+      "observed": "Subjek mengecil dan ruang tambahan terungkap saat kamera menjauh."
+    },
+    "03": {
+      "accepted": true,
+      "observed": "Subjek tetap di tempat; latar dan foreground bergeser lateral dengan parallax. Hasil generatif bukan lintasan terukur."
+    },
+    "04": {
+      "accepted": true,
+      "observed": "Subjek berjalan ke kanan, kamera mengikuti, dan lingkungan bergeser ke kiri."
+    },
+    "05": {
+      "accepted": true,
+      "observed": "Sudut pandang berubah dari frontal menuju tiga-perempat/samping, dengan latar berputar relatif terhadap karakter yang tetap pada lokasi yang sama."
+    },
+    "06": {
+      "accepted": true,
+      "observed": "Sapuan horizontal ke kanan melintasi facade workshop; karakter bergeser ke kiri hingga keluar frame."
+    },
+    "07": {
+      "accepted": true,
+      "observed": "Versi koreksi memperlihatkan tilt-down: karakter bergeser ke atas/keluar frame dan paving masuk dari bawah tanpa pembesaran subjek yang dominan. Area foreground yang baru terungkap mencakup tripod workshop."
+    },
+    "08": {
+      "accepted": true,
+      "observed": "Titik pandang kamera meninggi, posisi karakter turun dalam bingkai dan hubungan permukaan bench/latar berubah. Contoh pedestal generatif, bukan lintasan terukur."
+    },
+    "09": {
+      "accepted": true,
+      "observed": "Ada pergeseran framing kecil dan sway operator yang tidak seragam; komposisi tetap terbaca."
+    }
+  }
+}

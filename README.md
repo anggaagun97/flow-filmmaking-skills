@@ -12,13 +12,13 @@ Tiga skill untuk merancang produksi video di **Google Flow**, dengan target **Ve
 
 **[Berkas HTML](flow-video-prompts/assets/cinematic-cheat-sheet.html)** · **[Folder foto](flow-video-prompts/assets/cinematic-imagegen-assets)** · **[Unduh repo sebagai ZIP](https://github.com/anggaagun97/flow-filmmaking-skills/archive/refs/heads/main.zip)**
 
-70 kartu visual: **58 foto ImageGen dengan satu karakter acuan** untuk framing/lensa, angle, depth/fokus, film stock, lighting dan atmosfer; ditambah **12 diagram gerak kamera**. Bagian gerak kamera akan diperbarui terpisah melalui Flow MCP.
+70 kartu visual: **58 foto ImageGen dengan satu karakter acuan** untuk framing/lensa, angle, depth/fokus, film stock, lighting dan atmosfer; ditambah **12 GIF gerak kamera**. Gerak kamera divisualkan sebagai 12 GIF hasil Google Flow (Omni Flash 1.1, 4 detik) dan ditautkan sebagai file terpisah.
 
 HTML sekitar **30 KB**; semua foto berupa berkas tertaut, bukan data gambar yang disematkan. Untuk memakainya:
 
 1. Clone repo atau pilih **Code → Download ZIP**, lalu ekstrak.
 2. Buka `flow-video-prompts/assets/cinematic-cheat-sheet.html` di browser.
-3. Pertahankan folder `cinematic-imagegen-assets` di samping HTML. Pencarian, pembesaran foto dan salin fragmen bekerja secara lokal.
+3. Pertahankan folder `cinematic-imagegen-assets` dan `cinematic-camera-assets` di samping HTML. Pencarian, pembesaran foto dan salin fragmen bekerja secara lokal.
 
 GitHub menampilkan source HTML, bukan menjalankan halaman interaktifnya. Foto juga dapat dilihat langsung dalam folder atau pratinjau di bawah. Berkas gambar asli berukuran total sekitar 130 MB, sehingga unduhan repo lebih besar daripada HTML-nya. Akses mengikuti visibilitas repo.
 
@@ -85,3 +85,12 @@ Disusun dari materi publik TRY CGI, inspeksi cheat sheet, dokumentasi Google Flo
 Struktur skill, metadata dan tautan lokal diperiksa dengan validator skill-creator. Preferensi tiga panel dengan wajah blur serta tambahan focal length merupakan koreksi setelah uji pertama; revisi tersebut belum diuji ulang lewat generasi. Fitur model dan biaya dapat berubah: periksa UI dan dokumentasi resmi sebelum eksekusi.
 
 Repo ini berisi instruksi skill, panduan dan gambar edukatif ImageGen untuk cheat sheet. Tidak menyertakan arsip halaman sumber, hasil media proyek pengguna, data akun, saldo, kredensial, atau konfigurasi MCP lokal.
+
+
+### Preview gerak kamera (Google Flow)
+
+![Dolly in](flow-video-prompts/assets/cinematic-camera-assets/camera-01.gif)
+
+![Orbit](flow-video-prompts/assets/cinematic-camera-assets/camera-05.gif)
+
+GIF lain tersedia di folder `cinematic-camera-assets` dan dipanggil langsung oleh cheat sheet.
