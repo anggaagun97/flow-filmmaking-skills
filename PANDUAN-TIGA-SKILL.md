@@ -53,7 +53,7 @@ Setiap prompt video wajib menjelaskan: gerak/static camera; focal length numerik
 
 Shot list menetapkan keputusan tersebut sebelum serah-terima. Frame adegan mengikuti look produksi; identity sheet tetap netral dan mempertahankan tiga panel yang sudah disepakati. Untuk input frame atau edit sempit, hormati keputusan visual yang tidak diminta berubah. Kode ringkas hanya digunakan bila diminta, dengan makna deskriptif yang jelas.
 
-[Cheat sheet HTML offline](flow-video-prompts/assets/cinematic-cheat-sheet.html) menyediakan 70 ilustrasi dan fragmen prompt. [Referensi pengarahan](flow-video-prompts/references/cinematic-direction.md) menjelaskan penerapan dan batas bukti. Revisi ini belum diuji lewat generasi video.
+[Cheat sheet HTML offline](flow-video-prompts/assets/cinematic-cheat-sheet.html) menyediakan 58 foto ImageGen dengan satu karakter acuan, 12 diagram gerak kamera, dan fragmen prompt. HTML memakai foto tertaut; unduh bersama folder cinematic-imagegen-assets yang berada di sampingnya. [Referensi pengarahan](flow-video-prompts/references/cinematic-direction.md) menjelaskan penerapan dan batas bukti. Revisi ini belum diuji lewat generasi video.
 
 ## Status validasi
 

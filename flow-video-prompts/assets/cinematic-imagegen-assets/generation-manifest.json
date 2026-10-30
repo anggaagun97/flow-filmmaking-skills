@@ -1,0 +1,530 @@
+{
+  "character": "Fictional Indonesian woman, 30; olive overshirt, charcoal shirt, dark jeans, brown boots, black low ponytail",
+  "provider": "Built-in ImageGen",
+  "tasks": [
+    {
+      "key": "frame-00",
+      "group": "frame",
+      "index": 0,
+      "title": "Extreme wide / EWS",
+      "file": "cinematic-imagegen-assets/frame-00.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Extreme wide / EWS. Intended optics/look: 16–24mm • ruang dominan. Visual objective: Manusia sangat kecil; lokasi dan skala menjadi informasi utama.. Direction: Extreme wide shot, 20mm full-frame equivalent, distant figure within the landscape.. ",
+      "status": "generated"
+    },
+    {
+      "key": "frame-01",
+      "group": "frame",
+      "index": 1,
+      "title": "Wide / full shot",
+      "file": "cinematic-imagegen-assets/frame-01.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Wide / full shot. Intended optics/look: 24–35mm • seluruh tubuh. Visual objective: Berikan ruang di atas kepala dan di bawah kaki; aksi tubuh terbaca.. Direction: Full-body wide shot, 28mm, head and feet visible with environmental context.. ",
+      "status": "generated",
+      "note": "Uses the full-body character-master photograph; the focal-length range on the card includes the 35mm reference look."
+    },
+    {
+      "key": "frame-02",
+      "group": "frame",
+      "index": 2,
+      "title": "Medium wide / cowboy",
+      "file": "cinematic-imagegen-assets/frame-02.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Medium wide / cowboy. Intended optics/look: 35–50mm • paha ke atas. Visual objective: Gestur tangan, properti di pinggang, dan lingkungan tetap terbaca.. Direction: Cowboy framing from mid-thigh upward, 40mm lens.. ",
+      "status": "generated"
+    },
+    {
+      "key": "frame-03",
+      "group": "frame",
+      "index": 3,
+      "title": "Medium shot",
+      "file": "cinematic-imagegen-assets/frame-03.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Medium shot. Intended optics/look: 35–65mm • pinggang ke atas. Visual objective: Percakapan, gestur, keseimbangan wajah dan ruang.. Direction: Medium shot from waist up, 50mm, comfortable headroom.. ",
+      "status": "generated"
+    },
+    {
+      "key": "frame-04",
+      "group": "frame",
+      "index": 4,
+      "title": "Medium close-up",
+      "file": "cinematic-imagegen-assets/frame-04.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Medium close-up. Intended optics/look: 50–85mm • dada ke atas. Visual objective: Emosi jelas sambil mempertahankan bahasa tubuh bagian atas.. Direction: Medium close-up from chest up, 65mm, eyes near the upper third.. ",
+      "status": "generated"
+    },
+    {
+      "key": "frame-05",
+      "group": "frame",
+      "index": 5,
+      "title": "Close-up",
+      "file": "cinematic-imagegen-assets/frame-05.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Close-up. Intended optics/look: 75–105mm • kepala & bahu. Visual objective: Intim; jauhkan kamera secukupnya untuk proporsi wajah yang natural.. Direction: Close-up portrait, 85mm, head and shoulders, natural facial proportions.. ",
+      "status": "generated"
+    },
+    {
+      "key": "frame-06",
+      "group": "frame",
+      "index": 6,
+      "title": "Extreme close-up",
+      "file": "cinematic-imagegen-assets/frame-06.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Extreme close-up. Intended optics/look: 90–105mm macro • detail. Visual objective: Isolasi mata, tekstur atau benda kecil; kemampuan close focus penting.. Direction: Extreme close-up of one eye, 100mm macro lens, eyelash detail.. ",
+      "status": "generated"
+    },
+    {
+      "key": "frame-07",
+      "group": "frame",
+      "index": 7,
+      "title": "Two-shot",
+      "file": "cinematic-imagegen-assets/frame-07.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Two-shot. Intended optics/look: 35–50mm • dua karakter. Visual objective: Jaga keduanya terbaca; bedakan kedalaman blocking dan eyeline.. Direction: Balanced two-shot, 40mm, both characters clearly framed.. A two-shot using ONLY the same woman and her physically correct mirror reflection, no second person. Balanced 40mm medium-wide composition. Frame her and her reflection together; both must have the same identity and clothing.",
+      "status": "generated"
+    },
+    {
+      "key": "frame-08",
+      "group": "frame",
+      "index": 8,
+      "title": "Over-the-shoulder",
+      "file": "cinematic-imagegen-assets/frame-08.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Over-the-shoulder. Intended optics/look: 50–85mm • bahu foreground. Visual objective: Mengikat hubungan dua tokoh dan arah percakapan.. Direction: Over-the-shoulder medium close-up, 65mm, foreground shoulder at frame edge.. Over the woman’s shoulder toward her own reflection in the workshop mirror. Her olive shoulder is soft foreground, her reflected face is sharp in a 65mm medium close-up. This is one woman, no second person.",
+      "status": "generated"
+    },
+    {
+      "key": "frame-09",
+      "group": "frame",
+      "index": 9,
+      "title": "Telephoto detail",
+      "file": "cinematic-imagegen-assets/frame-09.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Telephoto detail. Intended optics/look: 135–200mm • jarak jauh. Visual objective: Dari posisi yang lebih jauh untuk framing serupa, latar tampak lebih besar relatif terhadap subjek.. Direction: Distant 180mm telephoto portrait, layered background, stable camera.. ",
+      "status": "generated"
+    },
+    {
+      "key": "angle-00",
+      "group": "angle",
+      "index": 0,
+      "title": "Eye level",
+      "file": "cinematic-imagegen-assets/angle-00.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Eye level. Intended optics/look: Setinggi mata. Visual objective: Relasi setara; titik awal percakapan yang natural.. Direction: Eye-level camera, level horizon, neutral perspective..  Neutral moderately deep focus, softly directional natural daylight, no stylized color grade; prioritize the stated viewpoint over flattering portrait conventions.",
+      "status": "generated"
+    },
+    {
+      "key": "angle-01",
+      "group": "angle",
+      "index": 1,
+      "title": "Low angle",
+      "file": "cinematic-imagegen-assets/angle-01.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Low angle. Intended optics/look: Di bawah mata • mengarah naik. Visual objective: Dapat memberi rasa kuat atau tinggi; perhatikan distorsi jika terlalu dekat.. Direction: Low-angle view looking upward at the character..  Neutral moderately deep focus, softly directional natural daylight, no stylized color grade; prioritize the stated viewpoint over flattering portrait conventions.",
+      "status": "generated"
+    },
+    {
+      "key": "angle-02",
+      "group": "angle",
+      "index": 2,
+      "title": "High angle",
+      "file": "cinematic-imagegen-assets/angle-02.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: High angle. Intended optics/look: Di atas mata • mengarah turun. Visual objective: Membuka denah atau memberi rasa rentan, tergantung konteks.. Direction: High-angle view looking down toward the seated character..  Neutral moderately deep focus, softly directional natural daylight, no stylized color grade; prioritize the stated viewpoint over flattering portrait conventions.",
+      "status": "generated"
+    },
+    {
+      "key": "angle-03",
+      "group": "angle",
+      "index": 3,
+      "title": "Overhead / top-down",
+      "file": "cinematic-imagegen-assets/angle-03.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Overhead / top-down. Intended optics/look: 90° ke bawah. Visual objective: Geometri, blocking, tata letak; muka mungkin tidak terbaca.. Direction: Direct overhead shot, lens axis perpendicular to the floor.. True vertical overhead photograph: camera lens looking straight down 90 degrees at the same standing woman, top of head and shoulders visible, boots and courtyard geometry below. Do not show frontal eye-level portrait. Neutral moderately deep focus, softly directional natural daylight, no stylized color grade; prioritize the stated viewpoint over flattering portrait conventions.",
+      "status": "generated"
+    },
+    {
+      "key": "angle-04",
+      "group": "angle",
+      "index": 4,
+      "title": "Worm’s-eye",
+      "file": "cinematic-imagegen-assets/angle-04.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Worm’s-eye. Intended optics/look: Dekat lantai • ke atas tajam. Visual objective: Arsitektur dan skala ekstrem. Hindari untuk potret netral.. Direction: Ground-level worm’s-eye angle, looking sharply upward..  Neutral moderately deep focus, softly directional natural daylight, no stylized color grade; prioritize the stated viewpoint over flattering portrait conventions.",
+      "status": "generated"
+    },
+    {
+      "key": "angle-05",
+      "group": "angle",
+      "index": 5,
+      "title": "Dutch angle",
+      "file": "cinematic-imagegen-assets/angle-05.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Dutch angle. Intended optics/look: Horizon miring 10°–20°. Visual objective: Ketidakstabilan; gunakan dengan motivasi cerita.. Direction: 15-degree Dutch angle, deliberately tilted horizon..  Neutral moderately deep focus, softly directional natural daylight, no stylized color grade; prioritize the stated viewpoint over flattering portrait conventions.",
+      "status": "generated"
+    },
+    {
+      "key": "angle-06",
+      "group": "angle",
+      "index": 6,
+      "title": "POV",
+      "file": "cinematic-imagegen-assets/angle-06.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: POV. Intended optics/look: Posisi mata karakter. Visual objective: Nyatakan siapa yang melihat dan objek tatapannya.. Direction: First-person POV from the seated character, looking toward the doorway.. First-person POV through this same woman’s eyes, looking down at her own olive sleeves and hands holding a small cup over the workshop bench. Her face cannot appear in a true POV; no other character. Neutral moderately deep focus, softly directional natural daylight, no stylized color grade; prioritize the stated viewpoint over flattering portrait conventions.",
+      "status": "generated"
+    },
+    {
+      "key": "angle-07",
+      "group": "angle",
+      "index": 7,
+      "title": "Profile / side",
+      "file": "cinematic-imagegen-assets/angle-07.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Profile / side. Intended optics/look: 90° dari wajah. Visual objective: Siluet hidung, eyeline, dan arah gerak terbaca kuat.. Direction: Strict side-profile view of the character facing right.. Strict 90-degree side profile portrait of the same woman facing right. Only one side of face and one eye visible, clear nose/chin silhouette, not three-quarter view. Neutral moderately deep focus, softly directional natural daylight, no stylized color grade; prioritize the stated viewpoint over flattering portrait conventions.",
+      "status": "generated"
+    },
+    {
+      "key": "depth-00",
+      "group": "depth",
+      "index": 0,
+      "title": "Very shallow",
+      "file": "cinematic-imagegen-assets/depth-00.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Very shallow. Intended optics/look: 85mm • f/1.4–2 • potret dekat. Visual objective: Fokus satu mata; telinga/latar melembut. Risiko bagian wajah penting tidak tajam.. Direction: 85mm at f/1.8, focus on the near eye, very shallow depth, soft background bokeh..  Same centered medium portrait with foreground plant at frame edge, woman in midground, doorway and warm lamp far behind; demonstrate the exact focus-plane difference.",
+      "status": "generated"
+    },
+    {
+      "key": "depth-01",
+      "group": "depth",
+      "index": 1,
+      "title": "Shallow",
+      "file": "cinematic-imagegen-assets/depth-01.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Shallow. Intended optics/look: 50–85mm • f/2.8. Visual objective: Wajah utama jelas, ruang tetap dikenali lewat bentuk lembut.. Direction: 65mm at f/2.8, face in focus, gently defocused background..  Same centered medium portrait with foreground plant at frame edge, woman in midground, doorway and warm lamp far behind; demonstrate the exact focus-plane difference.",
+      "status": "generated"
+    },
+    {
+      "key": "depth-02",
+      "group": "depth",
+      "index": 2,
+      "title": "Moderate",
+      "file": "cinematic-imagegen-assets/depth-02.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Moderate. Intended optics/look: 35–50mm • f/4–5.6. Visual objective: Subjek dan sebagian konteks terbaca; cocok dialog dan interior.. Direction: 40mm at f/5.6, moderate depth, readable room details..  Same centered medium portrait with foreground plant at frame edge, woman in midground, doorway and warm lamp far behind; demonstrate the exact focus-plane difference.",
+      "status": "generated"
+    },
+    {
+      "key": "depth-03",
+      "group": "depth",
+      "index": 3,
+      "title": "Deep focus",
+      "file": "cinematic-imagegen-assets/depth-03.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Deep focus. Intended optics/look: 24–35mm • f/8–11. Visual objective: Blocking berlapis tajam jika jarak fokus memadai; butuh cukup cahaya.. Direction: 28mm at f/8, focus distance set for foreground and background readability..  Same centered medium portrait with foreground plant at frame edge, woman in midground, doorway and warm lamp far behind; demonstrate the exact focus-plane difference.",
+      "status": "generated"
+    },
+    {
+      "key": "depth-04",
+      "group": "depth",
+      "index": 4,
+      "title": "Rack focus",
+      "file": "cinematic-imagegen-assets/depth-04.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Rack focus. Intended optics/look: 50–85mm • f/2–2.8. Visual objective: Alih perhatian foreground → background. Tentukan awal, akhir dan waktu.. Direction: Rack focus from the foreground cup to the person behind it over two seconds.. One educational diptych in a single image, equal left and right panels, identical 65mm composition. Same woman sits behind a cup close to the lens. LEFT: cup sharp, woman defocused. RIGHT: cup defocused, woman’s eyes sharp. Rack focus is temporal: this diptych shows BEFORE and AFTER only. No words. Preserve identical pose, camera, costume and set.",
+      "status": "generated"
+    },
+    {
+      "key": "depth-05",
+      "group": "depth",
+      "index": 5,
+      "title": "Foreground defocus",
+      "file": "cinematic-imagegen-assets/depth-05.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Foreground defocus. Intended optics/look: 50mm • f/2.8. Visual objective: Benda dekat lensa membingkai subjek tajam di tengah ruang.. Direction: Blurred foreground leaves, sharp midground face, soft distant background..  Same centered medium portrait with foreground plant at frame edge, woman in midground, doorway and warm lamp far behind; demonstrate the exact focus-plane difference.",
+      "status": "generated"
+    },
+    {
+      "key": "depth-06",
+      "group": "depth",
+      "index": 6,
+      "title": "Macro depth",
+      "file": "cinematic-imagegen-assets/depth-06.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Macro depth. Intended optics/look: 100mm macro • f/5.6–8. Visual objective: Pada jarak makro, DoF tetap tipis meski aperture lebih kecil.. Direction: 100mm macro at f/8, focus on the watch engraving, thin focus plane.. 100mm macro f/8 look: extreme close-up of this same woman’s fingers holding her overshirt cuff with a small stitched olive fabric label, no written letters. Narrow plane of fine fabric weave and fingers in sharp focus, skin behind and workshop heavily defocused. No different character or jewelry.",
+      "status": "generated"
+    },
+    {
+      "key": "depth-07",
+      "group": "depth",
+      "index": 7,
+      "title": "Spatial depth / layers",
+      "file": "cinematic-imagegen-assets/depth-07.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Spatial depth / layers. Intended optics/look: 24–35mm • f/5.6–8. Visual objective: Kedalaman komposisi lewat occlusion, skala, dan lapisan; bukan blur saja.. Direction: Foreground doorway, midground character, distant window; layered spatial depth..  Same centered medium portrait with foreground plant at frame edge, woman in midground, doorway and warm lamp far behind; demonstrate the exact focus-plane difference.",
+      "status": "generated"
+    },
+    {
+      "key": "film-00",
+      "group": "film",
+      "index": 0,
+      "title": "Daylight halus",
+      "file": "cinematic-imagegen-assets/film-00.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Daylight halus. Intended optics/look: Kodak VISION3 50D 5203 • motion negative. Visual objective: Arah kreatif: siang bersih, detail halus, warna natural.. Direction: Kodak VISION3 50D-inspired daylight negative, fine grain, natural skin, restrained saturation..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the film color/contrast/grain interpretation, keep original lighting and weather. Stock look is illustrative, not calibrated.",
+      "status": "generated"
+    },
+    {
+      "key": "film-01",
+      "group": "film",
+      "index": 1,
+      "title": "Daylight serbaguna",
+      "file": "cinematic-imagegen-assets/film-01.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Daylight serbaguna. Intended optics/look: Kodak VISION3 250D 5207 • motion negative. Visual objective: Daylight-balanced 5500K; arah kreatif: highlight terjaga dan tonal lembut.. Direction: Kodak VISION3 250D-inspired daylight look, gentle highlight roll-off, natural color..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the film color/contrast/grain interpretation, keep original lighting and weather. Stock look is illustrative, not calibrated.",
+      "status": "generated"
+    },
+    {
+      "key": "film-02",
+      "group": "film",
+      "index": 2,
+      "title": "Interior tungsten",
+      "file": "cinematic-imagegen-assets/film-02.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Interior tungsten. Intended optics/look: Kodak VISION3 200T 5213 • motion negative. Visual objective: Arah kreatif: interior praktikal hangat dengan skin tone terkontrol.. Direction: Kodak VISION3 200T-inspired tungsten interior, controlled warm practicals, subtle grain..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the film color/contrast/grain interpretation, keep original lighting and weather. Stock look is illustrative, not calibrated.",
+      "status": "generated"
+    },
+    {
+      "key": "film-03",
+      "group": "film",
+      "index": 3,
+      "title": "Night / mixed light",
+      "file": "cinematic-imagegen-assets/film-03.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Night / mixed light. Intended optics/look: Kodak VISION3 500T 5219 • motion negative. Visual objective: Tungsten-balanced; arah kreatif: malam, cahaya campuran, grain terlihat.. Direction: Kodak VISION3 500T-inspired night negative, textured grain, warm practicals and cool ambient..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the film color/contrast/grain interpretation, keep original lighting and weather. Stock look is illustrative, not calibrated.",
+      "status": "generated"
+    },
+    {
+      "key": "film-04",
+      "group": "film",
+      "index": 4,
+      "title": "Soft portrait",
+      "file": "cinematic-imagegen-assets/film-04.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Soft portrait. Intended optics/look: Kodak Portra 400 • still negative. Visual objective: Interpretasi portrait yang lembut dan warna kulit terkendali; bukan stock motion-picture.. Direction: Portra 400-inspired palette, gentle contrast, restrained colors, natural skin..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the film color/contrast/grain interpretation, keep original lighting and weather. Stock look is illustrative, not calibrated.",
+      "status": "generated"
+    },
+    {
+      "key": "film-05",
+      "group": "film",
+      "index": 5,
+      "title": "Warm nostalgia",
+      "file": "cinematic-imagegen-assets/film-05.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Warm nostalgia. Intended optics/look: Kodak Gold 200 • still negative. Visual objective: Interpretasi hangat dan kasual; jaga putih tetap masuk akal.. Direction: Kodak Gold 200-inspired warm nostalgic palette, modest grain, believable whites..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the film color/contrast/grain interpretation, keep original lighting and weather. Stock look is illustrative, not calibrated.",
+      "status": "generated"
+    },
+    {
+      "key": "film-06",
+      "group": "film",
+      "index": 6,
+      "title": "Saturated landscape",
+      "file": "cinematic-imagegen-assets/film-06.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Saturated landscape. Intended optics/look: Fujichrome Velvia 50 • still reversal. Visual objective: Arah kreatif: warna lanskap kuat dan kontras lebih tegas; hati-hati pada kulit.. Direction: Velvia 50-inspired landscape color, rich greens, strong contrast; protect skin tones..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the film color/contrast/grain interpretation, keep original lighting and weather. Stock look is illustrative, not calibrated.",
+      "status": "generated"
+    },
+    {
+      "key": "film-07",
+      "group": "film",
+      "index": 7,
+      "title": "Balanced slide",
+      "file": "cinematic-imagegen-assets/film-07.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Balanced slide. Intended optics/look: Fujichrome Provia 100F • still reversal. Visual objective: Alternatif tampilan slide yang lebih seimbang daripada interpretasi Velvia.. Direction: Provia 100F-inspired reversal-film look, balanced color and crisp detail..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the film color/contrast/grain interpretation, keep original lighting and weather. Stock look is illustrative, not calibrated.",
+      "status": "generated"
+    },
+    {
+      "key": "film-08",
+      "group": "film",
+      "index": 8,
+      "title": "Classic monochrome",
+      "file": "cinematic-imagegen-assets/film-08.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Classic monochrome. Intended optics/look: Kodak Double-X 5222 • motion B&W. Visual objective: Pisahkan bentuk melalui luminans, tekstur, dan kontras; bukan desaturasi semata.. Direction: Kodak Double-X-inspired black and white, rich midtones, textured grain, shaped light..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the film color/contrast/grain interpretation, keep original lighting and weather. Stock look is illustrative, not calibrated.",
+      "status": "generated"
+    },
+    {
+      "key": "film-09",
+      "group": "film",
+      "index": 9,
+      "title": "Classic photojournalism",
+      "file": "cinematic-imagegen-assets/film-09.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Classic photojournalism. Intended optics/look: Ilford HP5 Plus 400 • still B&W. Visual objective: Arah kreatif: hitam-putih bertekstur dan dokumenter; exposure/processing memengaruhi kontras.. Direction: Ilford HP5 Plus-inspired monochrome, tactile grain, readable shadows..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the film color/contrast/grain interpretation, keep original lighting and weather. Stock look is illustrative, not calibrated.",
+      "status": "generated"
+    },
+    {
+      "key": "light-00",
+      "group": "light",
+      "index": 0,
+      "title": "Soft window / side key",
+      "file": "cinematic-imagegen-assets/light-00.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Soft window / side key. Intended optics/look: Jendela besar • samping 45° • fill lembut. Visual objective: Transisi pipi halus; gunakan negative fill di sisi jauh bila terlalu rata.. Direction: Large window key 45 degrees camera-left, soft cheek falloff, subtle shadow-side fill..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the light sources, direction, softness, fill and resulting facial shadows; keep hair, expression and geometry identical.",
+      "status": "generated"
+    },
+    {
+      "key": "light-01",
+      "group": "light",
+      "index": 1,
+      "title": "Rembrandt",
+      "file": "cinematic-imagegen-assets/light-01.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Rembrandt. Intended optics/look: Key kecil–sedang • 45° samping & agak tinggi. Visual objective: Bayangan hidung bertemu pipi, menyisakan segitiga terang pada pipi jauh.. Direction: Raised 45-degree key, small light triangle on the far cheek; restrained fill.. Unmistakable Rembrandt lighting on the same woman in chest-up portrait: elevated camera-left key at 45 degrees. Connected nose-and-cheek shadow, leaving a small TRIANGLE of light on the far shadow cheek. Low fill, shadow eye visible. Neutral dark background, no glowing geometric overlay. Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the light sources, direction, softness, fill and resulting facial shadows; keep hair, expression and geometry identical.",
+      "status": "generated"
+    },
+    {
+      "key": "light-02",
+      "group": "light",
+      "index": 2,
+      "title": "Loop",
+      "file": "cinematic-imagegen-assets/light-02.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Loop. Intended optics/look: Key agak tinggi • 25°–35° samping. Visual objective: Bayangan hidung pendek tidak menyatu dengan bayangan pipi.. Direction: Soft loop lighting, key slightly above eye level and 30 degrees to camera-left.. Loop portrait lighting on the same woman: key 30 degrees camera-left just above eyes, a short nose shadow falling down-right, NOT touching cheek shadow. Natural skin; distinct from split or Rembrandt. Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the light sources, direction, softness, fill and resulting facial shadows; keep hair, expression and geometry identical.",
+      "status": "generated"
+    },
+    {
+      "key": "light-03",
+      "group": "light",
+      "index": 3,
+      "title": "Butterfly / paramount",
+      "file": "cinematic-imagegen-assets/light-03.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Butterfly / paramount. Intended optics/look: Key depan-atas • fill bawah opsional. Visual objective: Bayangan kecil di bawah hidung; bentuk tulang pipi simetris.. Direction: Butterfly key centered above camera, small nose shadow, gentle lower bounce.. Butterfly portrait lighting: key centered directly above camera, symmetrical sculpted cheekbones, small butterfly-shaped shadow immediately below nose. Face centered frontal. Gentle lower bounce. NOT side lighting. Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the light sources, direction, softness, fill and resulting facial shadows; keep hair, expression and geometry identical.",
+      "status": "generated"
+    },
+    {
+      "key": "light-04",
+      "group": "light",
+      "index": 4,
+      "title": "Split",
+      "file": "cinematic-imagegen-assets/light-04.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Split. Intended optics/look: Key 90° dari samping • fill minimal. Visual objective: Separuh wajah terang, separuh gelap; bentuk dramatis yang termotivasi.. Direction: Hard side key at 90 degrees, split-lit face, minimal fill, readable dark eye.. Split portrait lighting: narrow hard key exactly 90 degrees camera-left. Left half of face lit, right half dark, division along nose center line. Minimal fill, dark eye subtly readable. No rim light masquerading as split. Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the light sources, direction, softness, fill and resulting facial shadows; keep hair, expression and geometry identical.",
+      "status": "generated"
+    },
+    {
+      "key": "light-05",
+      "group": "light",
+      "index": 5,
+      "title": "Rim / edge",
+      "file": "cinematic-imagegen-assets/light-05.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Rim / edge. Intended optics/look: Sumber belakang-samping • exposure terkontrol. Visual objective: Garis pada bahu/rambut memisahkan subjek; wajah perlu key/bounce jika harus terbaca.. Direction: Rear-side rim along hair and shoulders, soft low-level facial key, no clipped edges.. Rim/edge lighting: strong controlled rear-side light drawing thin bright edges along dark hair and olive shoulders, dim soft frontal key leaves face readable. Dark neutral background. Do not overexpose edges. Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the light sources, direction, softness, fill and resulting facial shadows; keep hair, expression and geometry identical.",
+      "status": "generated"
+    },
+    {
+      "key": "light-06",
+      "group": "light",
+      "index": 6,
+      "title": "Backlight / silhouette",
+      "file": "cinematic-imagegen-assets/light-06.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Backlight / silhouette. Intended optics/look: Sumber di belakang • wajah tanpa fill. Visual objective: Detail wajah sengaja hilang; kuat untuk bentuk dan misteri.. Direction: Strong backlight, face held in silhouette, clean outline against bright background.. True silhouette: very bright background/backlight, same woman’s face and olive outfit completely dark with no readable facial detail, recognizable ponytail and body contour. No frontal fill, no glowing painted outline. Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the light sources, direction, softness, fill and resulting facial shadows; keep hair, expression and geometry identical.",
+      "status": "generated"
+    },
+    {
+      "key": "light-07",
+      "group": "light",
+      "index": 7,
+      "title": "Motivated practical",
+      "file": "cinematic-imagegen-assets/light-07.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Motivated practical. Intended optics/look: Lampu meja/lilin • warm key • ambient dingin. Visual objective: Cahaya tampak berasal dari properti; arah dan falloff mengikuti jaraknya.. Direction: Warm table lamp motivates the face key; cool window ambience, natural falloff..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the light sources, direction, softness, fill and resulting facial shadows; keep hair, expression and geometry identical.",
+      "status": "generated"
+    },
+    {
+      "key": "light-08",
+      "group": "light",
+      "index": 8,
+      "title": "Hard sun / negative fill",
+      "file": "cinematic-imagegen-assets/light-08.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Hard sun / negative fill. Intended optics/look: Matahari kecil relatif • sisi gelap dikurangi bounce. Visual objective: Bayangan tegas, bentuk kuat; jangan otomatis mengangkat semua shadow.. Direction: Hard afternoon sunlight from camera-left, negative fill on shadow cheek, controlled highlights..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the light sources, direction, softness, fill and resulting facial shadows; keep hair, expression and geometry identical.",
+      "status": "generated"
+    },
+    {
+      "key": "light-09",
+      "group": "light",
+      "index": 9,
+      "title": "Overcast / soft top",
+      "file": "cinematic-imagegen-assets/light-09.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Overcast / soft top. Intended optics/look: Langit mendung besar • top/front • negative fill. Visual objective: Lembut namun tetap berdimensi lewat occlusion, arah langit, dan kontras lokal.. Direction: Overcast skylight, soft top-front illumination, subtle negative fill shaping the face..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the light sources, direction, softness, fill and resulting facial shadows; keep hair, expression and geometry identical.",
+      "status": "generated"
+    },
+    {
+      "key": "light-10",
+      "group": "light",
+      "index": 10,
+      "title": "Low-key",
+      "file": "cinematic-imagegen-assets/light-10.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Low-key. Intended optics/look: Key terarah • fill ±2 stop di bawah key. Visual objective: Sebagian besar bingkai gelap, mata/gestur penting tetap terbaca.. Direction: Low-key portrait, directional key, fill roughly two stops below key, detailed shadows..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the light sources, direction, softness, fill and resulting facial shadows; keep hair, expression and geometry identical.",
+      "status": "generated"
+    },
+    {
+      "key": "light-11",
+      "group": "light",
+      "index": 11,
+      "title": "High-key",
+      "file": "cinematic-imagegen-assets/light-11.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: High-key. Intended optics/look: Key dan fill besar • beda ±0.5–1 stop. Visual objective: Terang dan bersih, tetap ada gradasi pipi; bukan wajah tanpa bentuk.. Direction: High-key studio, large soft key, fill half to one stop below key, gentle facial modeling..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the light sources, direction, softness, fill and resulting facial shadows; keep hair, expression and geometry identical.",
+      "status": "generated"
+    },
+    {
+      "key": "air-00",
+      "group": "air",
+      "index": 0,
+      "title": "Clear air",
+      "file": "cinematic-imagegen-assets/air-00.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Clear air. Intended optics/look: Udara bersih • kontras jarak terjaga. Visual objective: Detail jauh tajam; jangan menambahkan haze jika tidak dibutuhkan.. Direction: Clear dry air, crisp distant detail, no atmospheric haze..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the specified atmosphere/weather and its physically motivated effects on hair, fabric, light and background visibility.",
+      "status": "generated"
+    },
+    {
+      "key": "air-01",
+      "group": "air",
+      "index": 1,
+      "title": "Light haze",
+      "file": "cinematic-imagegen-assets/air-01.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Light haze. Intended optics/look: Kabut tipis • backlight/side light. Visual objective: Latar kehilangan kontras, cahaya membentuk volume; dekat tetap relatif jelas.. Direction: Thin backlit haze, gradual distant contrast loss, clear nearby facial detail..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the specified atmosphere/weather and its physically motivated effects on hair, fabric, light and background visibility.",
+      "status": "generated"
+    },
+    {
+      "key": "air-02",
+      "group": "air",
+      "index": 2,
+      "title": "Dense fog",
+      "file": "cinematic-imagegen-assets/air-02.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Dense fog. Intended optics/look: Kabut pekat • jarak pandang pendek. Visual objective: Siluet jauh hilang, cahaya menyebar; tidak otomatis membuat pakaian basah kuyup.. Direction: Dense ground fog, soft silhouettes, diffused lamps, limited visibility..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the specified atmosphere/weather and its physically motivated effects on hair, fabric, light and background visibility.",
+      "status": "generated"
+    },
+    {
+      "key": "air-03",
+      "group": "air",
+      "index": 3,
+      "title": "Rain / wet surfaces",
+      "file": "cinematic-imagegen-assets/air-03.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Rain / wet surfaces. Intended optics/look: Hujan miring • backlight • arah angin. Visual objective: Rambut basah, kain menggelap, tetes dan pantulan sesuai permukaan.. Direction: Backlit rain slanting right, wet hair, darkened fabric, puddle reflections and splashes.. Real rain: visible backlit rain streaks, the same woman’s hair visibly wet with clumped strands, droplets on face, olive cotton fabric darkened unevenly by water, wet concrete and puddles with plausible reflections. Preserve identity and costume. Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the specified atmosphere/weather and its physically motivated effects on hair, fabric, light and background visibility.",
+      "status": "generated"
+    },
+    {
+      "key": "air-04",
+      "group": "air",
+      "index": 4,
+      "title": "Snow / cold air",
+      "file": "cinematic-imagegen-assets/air-04.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Snow / cold air. Intended optics/look: Salju ringan • suhu dingin • angin pelan. Visual objective: Akumulasi pada bahu/rambut; napas tampak hanya jika kondisi mendukung.. Direction: Light drifting snow, flakes catching in hair and shoulders, subtle cold breath.. Cold snowfall: same woman and clothes, fine snow flakes accumulating naturally on hair and shoulders, subtle visible cold breath, cold ambient light. Do not add scarf, coat, cap or change costume. Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the specified atmosphere/weather and its physically motivated effects on hair, fabric, light and background visibility.",
+      "status": "generated"
+    },
+    {
+      "key": "air-05",
+      "group": "air",
+      "index": 5,
+      "title": "Dust / dry air",
+      "file": "cinematic-imagegen-assets/air-05.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Dust / dry air. Intended optics/look: Debu halus • shaft cahaya. Visual objective: Partikel terbaca pada sorot; residu kulit/kain hanya jika paparan cukup.. Direction: Sparse dust motes in a side-lit beam, dry textured surfaces, no uniform fog overlay..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the specified atmosphere/weather and its physically motivated effects on hair, fabric, light and background visibility.",
+      "status": "generated"
+    },
+    {
+      "key": "air-06",
+      "group": "air",
+      "index": 6,
+      "title": "Smoke / fire embers",
+      "file": "cinematic-imagegen-assets/air-06.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Smoke / fire embers. Intended optics/look: Asap berlapis • sumber api jelas. Visual objective: Glow hangat di sisi menghadap api; bara naik, asap mengikuti aliran udara.. Direction: Smoke drifting away from the fire, rising embers, warm flicker on the near cheek.. Smoke from a small off-frame safe controlled fire at camera-left, warm flickering light touches the near cheek, glowing embers rise, grey smoke drifts right and recedes in layers. Same character and clothing, no burning person. Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the specified atmosphere/weather and its physically motivated effects on hair, fabric, light and background visibility.",
+      "status": "generated"
+    },
+    {
+      "key": "air-07",
+      "group": "air",
+      "index": 7,
+      "title": "Steam / condensation",
+      "file": "cinematic-imagegen-assets/air-07.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Steam / condensation. Intended optics/look: Uap lokal • permukaan panas • udara lebih dingin. Visual objective: Uap naik dari sumber, menyebar; embun sesuai suhu permukaan.. Direction: Steam rising from the hot cup, thinning as it rises, localized window condensation..  Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the specified atmosphere/weather and its physically motivated effects on hair, fabric, light and background visibility.",
+      "status": "generated"
+    },
+    {
+      "key": "air-08",
+      "group": "air",
+      "index": 8,
+      "title": "Wind / sea spray",
+      "file": "cinematic-imagegen-assets/air-08.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Wind / sea spray. Intended optics/look: Angin lateral • kelembapan pesisir. Visual objective: Arah rambut, kain, tetes, dan ombak konsisten; garam pada permukaan masuk akal.. Direction: Coastal wind from left to right, matching hair and cloth movement, fine sea spray.. Coastal wind and fine sea spray reaching the courtyard: strong left-to-right airflow visibly pushes the same woman’s loose hair strands and overshirt hem rightward, fine droplets catch backlight. Do not change her hairstyle, identity or outfit. No second person. Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the specified atmosphere/weather and its physically motivated effects on hair, fabric, light and background visibility.",
+      "status": "generated"
+    },
+    {
+      "key": "air-09",
+      "group": "air",
+      "index": 9,
+      "title": "Heat shimmer",
+      "file": "cinematic-imagegen-assets/air-09.png",
+      "prompt": "Use case: photorealistic-natural / cinematography educational still. Create ONE single landscape 16:10 photorealistic photograph, not a grid, diagram or infographic. Reference image role: identity, costume and workshop-courtyard setting. Preserve the SAME fictional Indonesian woman, face, age, skin tone, black low ponytail, olive cotton overshirt, charcoal shirt, dark jeans and brown boots. Preserve realistic pores, fabric texture and believable anatomy. No additional people, no typography, no watermark, no beauty retouching, no illustration or CGI. The teaching variable must be unmistakably visible. Teaching item: Heat shimmer. Intended optics/look: Udara panas • di atas aspal/sumber panas. Visual objective: Distorsi dominan pada latar di atas sumber, bukan wajah seluruh bingkai.. Direction: Localized heat shimmer above sunlit asphalt, distant refraction, sharp foreground face.. Same woman standing sharply focused in foreground of the courtyard. Strong hot sun on asphalt beyond, localized wavy heat-refraction shimmer visibly distorts ONLY distant doorway/building edges above the hot ground. Near face stays sharp. No blur filter on whole image. Keep IDENTICAL centered waist-up frontal pose, eye-level 50mm perspective and workshop courtyard layout as the portrait reference; vary ONLY the specified atmosphere/weather and its physically motivated effects on hair, fabric, light and background visibility.",
+      "status": "generated"
+    }
+  ],
+  "notes": "Same reference identity. Educational interpretations; not calibrated stock/optical simulations. Camera diagrams intentionally unchanged."
+}

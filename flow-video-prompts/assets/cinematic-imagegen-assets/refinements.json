@@ -1,0 +1,22 @@
+[
+  {
+    "key": "frame-04",
+    "prompt": "Photorealistic SINGLE medium close-up teaching photograph, exact same woman in references, identical olive overshirt and dark ponytail. FRAME MUST CROP AT UPPER CHEST just below collarbones. The head occupies about 65 percent of image height, eyes near upper third, small headroom, shoulders visible only at bottom. NO waist, NO hands, NO full torso. This MUST be much tighter than reference portrait. 65mm full-frame lens, f/2.8 look, near eye sharp, workshop softly blurred. Neutral expression, frontal eye-level. Natural directional window daylight. Horizontal 16:10 frame. No words or diagrams.",
+    "reason": "Tighten crop to match shot size"
+  },
+  {
+    "key": "frame-05",
+    "prompt": "Photorealistic SINGLE tight CLOSE-UP head-and-shoulders teaching photograph. EXACT SAME woman's face, olive collar and black low ponytail as references. Her face occupies about 85 percent of image height, entire hairline and chin visible with only a sliver of shoulders at bottom, narrow headroom. Crop immediately below the neck, NO chest, NO hands, NO torso, NO waist. Horizontal 16:10 image. 85mm full-frame lens, f/2.8 look, eye-level frontal, both eyes sharp, natural skin pores, softly blurred workshop background, same soft directional daylight. No text, no diagram.",
+    "reason": "Tighten crop to match shot size"
+  },
+  {
+    "key": "light-01",
+    "prompt": "Use case: lighting-weather, identity-preserve. Source photograph is IDENTITY AND CLOTHING reference only. Recreate a real educational lighting portrait of this EXACT same woman with same olive collar and ponytail. TIGHT HEAD AND SHOULDERS crop, her head fills 80 percent of image height; horizontal 16:10. IMPORTANT replace ALL courtyard sunlight with a controlled dark photographic studio, charcoal background. No ambient daylight, no window, no outdoor sun, no glowing background. REMBRANDT pattern: small hard key at camera-left 45 degrees to side and 35 degrees above eye level. Nose shadow CONNECTS to the far cheek shadow, leaving an unmistakable small upside-down TRIANGLE of light on the right cheek under the shadow eye. Entire far side otherwise dark, minimal fill, subtle readable shadow eye. Clearly photograph a real light pattern, no drawn shapes. Preserve the face, age, skin pores and garment identity. Do NOT preserve the old light. Face straight forward, calm expression, eye-level 85mm lens f/5.6 look, focus on both eyes. No labels, text or diagram. Make the pattern high-contrast and easy to recognize.",
+    "reason": "Improve visibility of facial shadow pattern"
+  },
+  {
+    "key": "light-03",
+    "prompt": "Use case: lighting-weather, identity-preserve. Source photograph is IDENTITY AND CLOTHING reference only. Recreate a real educational lighting portrait of this EXACT same woman with same olive collar and ponytail. TIGHT HEAD AND SHOULDERS crop, her head fills 80 percent of image height; horizontal 16:10. IMPORTANT replace ALL courtyard sunlight with a controlled dark photographic studio, charcoal background. No ambient daylight, no window, no outdoor sun, no glowing background. BUTTERFLY / PARAMOUNT pattern: hard-to-medium key centered DIRECTLY ABOVE THE CAMERA, frontal symmetrical face, a distinct small butterfly-shaped dark shadow centered immediately BELOW THE NOSE and above upper lip, symmetrical sculpted cheekbones, shadow under chin, dim gentle lower bounce. No side key or Rembrandt triangle. Preserve the face, age, skin pores and garment identity. Do NOT preserve the old light. Face straight forward, calm expression, eye-level 85mm lens f/5.6 look, focus on both eyes. No labels, text or diagram. Make the pattern high-contrast and easy to recognize.",
+    "reason": "Improve visibility of facial shadow pattern"
+  }
+]
