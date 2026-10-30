@@ -25,14 +25,21 @@ Sesuaikan dengan shot; contoh ini tidak cocok bila adegan membutuhkan hand-held,
 
 ## Contoh: frame awal sudah benar
 
-Asumsikan frame awal benar-benar memperlihatkan pria duduk memegang amplop. Contoh baru:
+Asumsikan frame awal benar-benar memperlihatkan pria duduk memegang amplop dalam pencahayaan window key dan look daylight yang sesuai. Angka optik berikut adalah look, bukan metadata gambar. Contoh baru:
 
 ```text
 The seated man opens the envelope, pauses when he finds it empty,
 then raises his eyes toward the person opposite him. Gently push
 in from the starting chest-up framing to a close-up of his reaction.
-Preserve his identity, wardrobe, envelope design and side lighting.
-A faint breeze lifts the flap while he holds the envelope.
+Use an 85mm full-frame-equivalent lens look at seated eye level,
+camera far enough for the starting chest-up crop; f/2.8 aperture look,
+near eye in focus, shallow depth and restrained soft background bokeh.
+Preserve the initial frame's viewpoint, identity, wardrobe and envelope.
+Use a Kodak VISION3 250D-inspired natural daylight palette consistent
+with the source frame, fine grain and controlled highlights. Preserve
+the large soft side-window key shaping the cheek, with subtle fill on
+the shadow side. Clear indoor air; a faint breeze lifts only the loose
+flap while he holds the envelope. Keep the established light direction.
 One continuous shot. Sound: wind and paper rustling.
 No scene cuts, music, dialogue or captions.
 ```

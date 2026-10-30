@@ -39,6 +39,14 @@ Pisahkan hal tetap dari aksi yang berubah: wajah, rambut, pakaian, desain proper
 
 Jika satu take diinginkan, tegaskan kontinuitas tanpa cut; terutama pada Omni yang dapat membuat beberapa shot. Untuk multi-shot, berikan urutan atau timestamp secukupnya sesuai durasi. Jangan meminta cut sambil melarang semua cut.
 
+## Standar cinematic wajib pengguna
+
+Setiap prompt generasi video, termasuk tiap shot dalam rangkaian multi-shot, harus menjelaskan gerak kamera (atau static), focal length numerik acuan full-frame, framing dan angle, aperture numerik beserta target fokus/bokeh/DoF, referensi film stock beserta karakter tampilannya, susunan lighting yang membentuk subjek, serta atmosfer dan dampaknya ke adegan/karakter. Pilih nilai yang sesuai cerita; udara bersih, deep focus, high-key atau kamera diam tetap sah. Jangan menyamakan cinematic dengan gelap, bokeh kuat atau grain berat.
+
+Baca [pengarahan cinematic dan contoh](references/cinematic-direction.md) saat menulis atau merevisi prompt. Lengkapi unsur yang belum ditentukan melalui asumsi kreatif yang masuk akal; jangan menunda draft dengan pertanyaan rutin. Pertahankan frame awal dan keputusan yang tidak diminta berubah pada edit sempit; metadata optik yang tidak diketahui ditulis sebagai look, bukan fakta kamera asli.
+
+Default prompt adalah bahasa alami lengkap. Kode slash/no-slash hanya alat bantu ringkas bila pengguna meminta, bukan sintaks resmi atau jaminan hasil. Jangan membuang keputusan visual wajib demi kode. Sebelum menyerahkan, periksa konflik antar-gerak, framing/lensa/jarak, fokus/aksi, cahaya/atmosfer dan kontinuitas antar-shot.
+
 ## Sesuaikan cara penyampaian dengan tugas
 
 **Veo generasi:** deskripsikan shot yang dapat divisualisasikan, misalnya kamera/framing, subjek, aksi, konteks/cahaya, suara, serta kontinuitas. Urutan ini alat menyusun ide, bukan sintaks wajib.

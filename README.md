@@ -17,6 +17,14 @@ Tiga skill untuk merancang produksi video di **Google Flow**, dengan target **Ve
 - Satu hasil per aset/shot dan tanpa retry otomatis sebagai awal. Jika status MCP ambigu, periksa job, hasil dan saldo sebelum mengulang. Semua percobaan masuk perhitungan biaya.
 - Penggabungan klip dilakukan manual oleh pengguna. Ketiga skill menyusun materi dan prompt; eksekusi generasi memerlukan permintaan pengguna tersendiri.
 
+## Standar cinematic dan referensi visual
+
+Setiap prompt video membawa gerak/static camera, focal length + framing + angle, aperture + target fokus + bokeh/DoF, referensi film stock, lighting yang membentuk subjek, dan atmosfer beserta dampaknya. Shot list dan frame adegan meneruskan keputusan yang sama. Sheet identitas tetap netral; aturan tiga panel dipertahankan.
+
+Lihat [pengarahan cinematic](flow-video-prompts/references/cinematic-direction.md) dan [cheat sheet HTML 70 kartu visual](flow-video-prompts/assets/cinematic-cheat-sheet.html). Unduh HTML lalu buka di browser untuk pencarian dan salin fragmen offline; tampilan GitHub menampilkan source, bukan menjalankan HTML. Ilustrasi bukan simulasi optik atau emulasi film stock presisi.
+
+Kode slash/no-slash hanya shorthand opsional bila diminta. Prompt lengkap menjadi default; kode tidak dianggap perintah resmi yang menjamin hasil. Pembaruan 30 Oktober 2026 divalidasi secara struktural; belum diuji melalui generasi berbayar.
+
 ## Instalasi
 
 1. Clone atau unduh repositori ini.

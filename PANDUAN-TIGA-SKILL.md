@@ -47,6 +47,14 @@ Gunakan satu hasil per aset/shot, tanpa retry otomatis sebagai awal. Bila MCP ga
 
 Setiap shot list dan prompt video pengguna ini mencantumkan focal length numerik (mm, acuan full-frame), ukuran shot, camera angle dan gerak kamera. Lengkapi dengan jarak/posisi relatif yang menghasilkan framing tersebut. Angka lensa bukan pengganti framing atau angle; pada frame-to-video pertahankan viewpoint/crop gambar awal dan jangan mengklaim model menjalankan simulasi optik presisi.
 
+## Standar cinematic 30 Oktober 2026
+
+Setiap prompt video wajib menjelaskan: gerak/static camera; focal length numerik full-frame, framing, angle dan jarak relatif; aperture look, target fokus, bokeh dan DoF; referensi film stock dengan karakter warna/kontras/grain/highlight; sumber/arah/kualitas lighting serta pembentukan subjek; atmosfer dan dampaknya pada karakter/material/adegan. Pilih sesuai cerita, pertahankan kontinuitas, dan jangan menganggap angka prompt sebagai metadata kamera atau kontrol model yang pasti.
+
+Shot list menetapkan keputusan tersebut sebelum serah-terima. Frame adegan mengikuti look produksi; identity sheet tetap netral dan mempertahankan tiga panel yang sudah disepakati. Untuk input frame atau edit sempit, hormati keputusan visual yang tidak diminta berubah. Kode ringkas hanya digunakan bila diminta, dengan makna deskriptif yang jelas.
+
+[Cheat sheet HTML offline](flow-video-prompts/assets/cinematic-cheat-sheet.html) menyediakan 70 ilustrasi dan fragmen prompt. [Referensi pengarahan](flow-video-prompts/references/cinematic-direction.md) menjelaskan penerapan dan batas bukti. Revisi ini belum diuji lewat generasi video.
+
 ## Status validasi
 
 Struktur setiap skill diperiksa memakai validator skill-creator; metadata antarmuka dan tautan referensi lokal juga diperiksa. Sampel Amplop Kosong sudah dijalankan melalui Flow; pengulangan berlebihan dan cacat kontinuitas pada percobaan tersebut menjadi dasar perbaikan aturan eksekusi. Format character sheet tiga panel dengan wajah blur pada full shot telah diperbarui sesuai koreksi pengguna, tetapi belum digenerasikan atau diuji pada sampel baru. Data fitur dalam referensi diberi tanggal dan harus diperiksa ulang saat keputusan bergantung pada fitur terkini.

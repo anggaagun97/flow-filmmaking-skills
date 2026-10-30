@@ -22,6 +22,14 @@ Periksa gambar yang tersedia sebelum mengusulkan perubahan. Catat benturan wajah
 
 Gunakan prompt gambar yang menjelaskan keluaran visual, pembagian tampak jika ada, detail yang tetap, serta pengecualian yang relevan. Hindari mengunci seluruh aset pada film grain atau cahaya dramatis bila akan menyulitkan pemakaian lintas shot. Sebut bahwa latar studio pada sheet tidak dimaksudkan sebagai lokasi film ketika perlu.
 
+## Look adegan dan kontinuitas cahaya
+
+Untuk frame adegan produksi, tentukan focal length numerik acuan full-frame, framing, angle dan posisi/jarak relatif; aperture look, target fokus, bokeh/DoF; referensi film stock dan interpretasi warna/kontras; sumber, arah dan kualitas cahaya yang membentuk subjek; serta atmosfer dan dampaknya pada karakter/material/visibilitas. Gerak kamera yang direncanakan membutuhkan ruang dan lapisan foreground–midground–background yang mendukungnya. Gunakan keputusan adegan yang sudah ada; bila metadata tidak diketahui, nyatakan sebagai look.
+
+Character/prop identity sheet tetap netral, jelas dan mudah digunakan lintas shot; jangan memaksakan lighting dramatis, blur DoF atau grain pada sheet yang menghilangkan detail identitas. Pemburaman wajah full shot tetap hanya aturan panel sheet. Simpan look produksi pada frame adegan atau spesifikasi set, agar tidak mencampur identitas dengan treatment adegan.
+
+Catat posisi sumber cahaya dalam koordinat ruang, sifat permukaan, keadaan basah/kering, arah angin dan perubahan properti yang perlu diwariskan. Sudut baru tidak memindahkan jendela atau menukar tangan pemegang benda. Film stock adalah rujukan karakter gambar, bukan jaminan emulasi tepat.
+
 ## Petakan fungsi aset ke Flow
 
 Ingredients/references mengarahkan identitas atau ciri aset; frame awal/akhir menetapkan kondisi visual pada batas klip. Jangan memasukkan seluruh character sheet sebagai frame awal kecuali video memang harus dimulai dari sheet tersebut.

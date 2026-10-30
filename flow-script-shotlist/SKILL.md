@@ -37,6 +37,14 @@ Framing, angle, lensa/look dan gerakan adalah keputusan terpisah. Pada workflow 
 
 Pilih satu fungsi dominan per shot sebagai awal. Beberapa gerak kecil atau aksi bertahap diperbolehkan bila jelas dan cukup waktu. Hindari memecah satu aksi penting hanya karena membagi durasi secara merata.
 
+## Keputusan cinematic untuk serah-terima
+
+Lengkapi setiap shot dengan aperture numerik, target fokus, tingkat depth of field dan bokeh; referensi film stock serta karakter warna/kontras/grain/highlight; sumber/arah/kualitas key dan fill/negative fill/rim yang diperlukan untuk membentuk subjek; atmosfer beserta dampaknya pada karakter, material, cahaya dan jarak pandang. Pilih konfigurasi sesuai adegan, bukan preset sama untuk seluruh proyek. Kamera diam dan udara bersih tetap keputusan eksplisit.
+
+Tetapkan stock/look proyek lalu catat pengecualian per shot. Sumber cahaya dan kondisi lingkungan tetap berada pada ruang dunia; deskripsi camera-left/right diterjemahkan ulang saat kamera pindah. Bedakan depth komposisi berlapis dari depth of field optik. Angka lensa/aperture dan stock adalah arahan visual, bukan jaminan simulasi model.
+
+Untuk cerita/iklan multi-shot, gunakan blok waktu secukupnya untuk aksi, dialog, reaksi dan suara. Catat tangan pemegang, orientasi dan keadaan hero prop serta posisi/jalur karakter. Beat setup–upaya–konsekuensi–eskalasi–callback boleh membantu komedi, tetapi bukan pola wajib semua genre. Jangan menganggap contoh cerita 30 detik berarti satu generasi Flow 30 detik.
+
 ## Rencanakan kontinuitas dan produksi
 
 Tetapkan identitas/kostum, keadaan properti, hubungan ruang, arah cahaya pada set, arah gerak dan eyeline. Tunjukkan apa yang berubah pada akhir shot. Sudut kamera baru tidak otomatis mengubah posisi benda atau arah cahaya dunia.

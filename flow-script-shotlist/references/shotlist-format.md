@@ -10,6 +10,18 @@ Tabel Markdown cukup untuk sebagian besar proyek. Jangan memaksa pengguna mengis
 
 Ini contoh cerita 12 detik dengan satu shot per klip, tanpa dialog. Rencana durasi perlu sesuai opsi aktual Flow. Referensi contoh belum otomatis tersedia dan jumlahnya tidak menyatakan batas slot model.
 
+## Lengkapi keputusan visual contoh
+
+Asumsi contoh: exterior sore, stock/look proyek Kodak VISION3 250D-inspired, kulit natural, grain halus dan highlight terkontrol. Matahari rendah dari barat menjadi back-side key, bounce langit memberi fill wajah. Udara kering jernih dengan angin ringan menggerakkan flap amplop; tidak ada debu padat yang tidak diminta.
+
+| Shot | Kamera dan optik | Fokus | Lighting dan atmosfer |
+|---|---|---|---|
+| S01 | 50mm full-frame, medium waist-up, eye level, static | f/4 look, wajah dan amplop terbaca, bokeh lembut | Soft bounce pada wajah, tepi hangat matahari; angin pelan |
+| S02 | 100mm macro look, insert tangan/amplop, slight high angle, static | f/8 look, isi amplop menjadi target, DoF tipis pada jarak dekat | Arah matahari sama, kertas memantulkan cahaya; tangan kanan mempertahankan pegangan |
+| S03 | 85mm full-frame, close-up, eye level, slow physical push-in | f/2.8 look, mata dekat tajam, latar lembut | Fill wajah tetap terbaca, back-side edge konsisten; angin tetap dari arah yang sama |
+
+Rentang framing bergantung posisi/jarak. Ini keputusan kreatif untuk contoh, bukan hasil generasi atau metadata kamera asli. Semua shot mewarisi stock/look dan arah sumber dunia yang sama; posisi sumber relatif terhadap kamera dapat berubah.
+
 ## Catatan yang tidak muat di tabel
 
 - **Kontinuitas:** CH-01 mengenakan varian kostum yang sama; PR-01 tidak kembali tertutup setelah S01. Posisi sumber cahaya tetap pada set.
@@ -19,7 +31,7 @@ Ini contoh cerita 12 detik dengan satu shot per klip, tanpa dialog. Rencana dura
 
 ## Bentuk serah-terima per shot
 
-Gunakan nama berikut bila perlu format terstruktur: shot_id, story_function, target_edit_duration_s, generation_duration_s, asset_ids, initial_state, action, camera, lighting, audio_dialogue, continuity, final_state, transition.
+Gunakan nama berikut bila perlu format terstruktur: shot_id, story_function, target_edit_duration_s, generation_duration_s, asset_ids, initial_state, action, camera (focal_length_mm, framing, angle, relative_position, movement, aperture_look, focus_target, depth_of_field, bokeh), film_stock_look, lighting (source, world_direction, quality, shaping), atmosphere_and_effects, audio_dialogue, continuity, final_state, transition.
 
 Isi yang belum diketahui ditandai sebagai asumsi atau belum ditentukan. Jangan membuat path gambar, ID upload Flow, pilihan model, atau status render palsu. Tahap prompt video boleh mengubah cara penulisan tanpa mengubah cerita, dialog dan kontinuitas yang sudah dipilih pengguna.
 
