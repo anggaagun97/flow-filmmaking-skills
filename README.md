@@ -80,7 +80,7 @@ Lihat [panduan lengkap](PANDUAN-TIGA-SKILL.md) untuk pembagian tugas dan alur ke
 
 ## Dasar metode dan validasi
 
-Disusun dari materi publik TRY CGI, inspeksi cheat sheet, dokumentasi Google Flow, dan pembelajaran dari satu proyek sampel. Referensi sumber disertakan di setiap skill. Prompt berbayar tersembunyi tidak diekstrak atau dipublikasikan.
+Disusun dari materi publik berbagai akun edukasi video AI, inspeksi cheat sheet, dokumentasi Google Flow, dan pembelajaran dari satu proyek sampel. Referensi sumber disertakan di setiap skill. Prompt berbayar tersembunyi tidak diekstrak atau dipublikasikan.
 
 Struktur skill, metadata dan tautan lokal diperiksa dengan validator skill-creator. Preferensi tiga panel dengan wajah blur serta tambahan focal length merupakan koreksi setelah uji pertama; revisi tersebut belum diuji ulang lewat generasi. Fitur model dan biaya dapat berubah: periksa UI dan dokumentasi resmi sebelum eksekusi.
 
