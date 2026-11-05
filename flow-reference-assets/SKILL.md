@@ -1,6 +1,8 @@
 ---
 name: flow-reference-assets
 description: "Rancang character sheet, prop sheet, location plate atau set reference untuk produksi video di Google Flow. Buat prompt gambar, spesifikasi kontinuitas, dan pemetaan aset untuk shot list atau prompt video. Gunakan saat pengguna menyiapkan atau memperbaiki referensi visual; bukan untuk menulis naskah lengkap atau prompt gerak video."
+metadata:
+  version: "2.0.0"
 ---
 
 # Referensi karakter, properti dan set untuk Flow
@@ -39,6 +41,20 @@ Blur wajah pada panel full shot hanya untuk sheet referensi. Wajah karakter pada
 Jangan menebak jumlah slot referensi atau dukungan varian model. Jika mode yang tersedia tidak menerima referensi terpisah, rancang satu frame adegan yang bersih untuk mode Frames. Menyebut aset di teks tidak menggantikan pemasangan gambar pada antarmuka.
 
 Gunakan ID internal sederhana yang konsisten, misalnya CH-01, PR-01 dan SET-01. ID itu untuk dokumen proyek, bukan ID native Flow atau token upload. Nama file dan status harus mencerminkan aset yang benar-benar ada.
+
+## Nama proyek, aset dan pemakaian ulang MCP
+
+Gunakan satu nama proyek tetap yang deskriptif, misalnya `Interna-FK-Unhas-2026`. Nama proyek Flow dan nama folder `project` pada MCP mengikuti nama ini. Verifikasi identitas proyek aktif lewat URL/ID yang tersedia; nama tampilan saja tidak membedakan dua proyek bernama sama. Parameter `project` pada generate menamai folder unduhan, bukan memilih atau mengganti nama proyek Flow. Jangan mengklaim proyek telah dipilih atau dinamai tanpa bukti antarmuka/tool.
+
+Gunakan nama aset tetap pada judul Flow dan basename file lokal, misalnya `CH-01-Dokter-Kostum-Putih`, `PR-01-Stetoskop`, `SET-01-Koridor`, `FR-S01-SH01`. Pakai ekstensi sesuai file. Tambahkan `-v02` hanya jika isi/desain direvisi; upload, download atau penggunaan ulang tidak membuat versi baru. Pertahankan nama aset lama yang sudah disepakati. Cocokkan judul lengkap secara tepat, bukan awalan atau tebakan dari ID internal.
+
+Simpan pemetaan judul aset dan path lokal per ID/URL proyek pada catatan proyek yang sudah ada. Jika belum ada, buat satu catatan ringkas di folder kerja proyek. Catat proyek terakhir yang terverifikasi dan hasil upload yang benar-benar berhasil. Saat proyek aktif sama dan pemetaan tersedia, gunakan catatan itu tanpa flow_assets, inspeksi gambar ulang, atau upload ulang referensi yang sama. Periksa identitas proyek melalui status ringan bila belum diketahui atau mungkin berubah; pemeriksaan identitas bukan inventarisasi aset.
+
+Panggil flow_assets satu kali saat proyek berganti, atau saat pertama masuk tanpa pemetaan yang dapat dipercaya, lalu cocokkan nama saja. Jangan membuka setiap gambar untuk validasi ulang. Inspeksi visual dilakukan hanya untuk tugas penilaian/revisi visual atau ambiguitas yang memengaruhi hasil. Jika judul sama muncul lebih dari sekali, selesaikan ambiguitas sebelum generasi.
+
+Untuk aset yang tercatat tersedia, kirim `asset:<judul-persis>` pada reference_images/first_frame/last_frame sesuai perannya, bukan path file lokal. Jika aset yang diperlukan belum ada, upload hanya aset itu dengan nama tetap melalui kemampuan MCP yang tersedia. Jika upload terjadi saat generate, berikan basename yang sesuai dan gunakan hasil tool untuk mencatat judul aktual. Jangan menganggap basename otomatis menjadi judul Flow. Lakukan rename hanya melalui kontrol yang benar-benar tersedia; jika tidak tersedia, nyatakan batas tersebut dan catat judul aktual untuk pemakaian ulang. Untuk karakter reusable, gunakan kemampuan pembuatan karakter bernama bila sesuai, bukan memaksakan semua referensi menjadi karakter.
+
+Jika generate melaporkan aset hilang, perbarui pemetaan hanya untuk aset itu. Sebelum upload atau submit ulang, pastikan job sebelumnya belum menghabiskan kredit atau menghasilkan klip. Bila status ambigu, rekonsiliasi job/aset sekali sebagai pemulihan; jangan mengulang seluruh batch atau inventarisasi pada setiap shot. Aset yang terhapus atau berubah di luar workflow membuat cache kedaluwarsa; pulihkan berdasarkan kegagalan lookup atau perubahan yang dilaporkan pengguna.
 
 ## Keluaran
 

@@ -1,6 +1,8 @@
 ---
 name: flow-script-shotlist
 description: "Susun atau revisi naskah dan shot list video untuk produksi di Google Flow, termasuk beat cerita, dialog, blocking, kamera, kontinuitas dan kebutuhan aset. Gunakan untuk mengubah ide menjadi rencana klip Veo 3.1 atau Omni 1.1 Flash; bukan untuk menulis prompt video siap salin atau membuat gambar referensi."
+metadata:
+  version: "2.0.0"
 ---
 
 # Naskah dan shot list untuk produksi Flow
@@ -39,7 +41,7 @@ Pilih satu fungsi dominan per shot sebagai awal. Beberapa gerak kecil atau aksi 
 
 ## Keputusan cinematic untuk serah-terima
 
-Lengkapi setiap shot dengan aperture numerik, target fokus, tingkat depth of field dan bokeh; referensi film stock serta karakter warna/kontras/grain/highlight; sumber/arah/kualitas key dan fill/negative fill/rim yang diperlukan untuk membentuk subjek; atmosfer beserta dampaknya pada karakter, material, cahaya dan jarak pandang. Pilih konfigurasi sesuai adegan, bukan preset sama untuk seluruh proyek. Kamera diam dan udara bersih tetap keputusan eksplisit.
+Tetapkan look bersama sekali dan catat pengecualian per shot; jangan menulis ulang look yang sama di setiap tabel atau tahap. Lengkapi keputusan shot dengan aperture numerik, target fokus, tingkat depth of field dan bokeh; referensi film stock serta karakter warna/kontras/grain/highlight; sumber/arah/kualitas key dan fill/negative fill/rim yang diperlukan untuk membentuk subjek; atmosfer beserta dampaknya pada karakter, material, cahaya dan jarak pandang. Pilih konfigurasi sesuai adegan, bukan preset sama untuk seluruh proyek. Kamera diam dan udara bersih tetap keputusan eksplisit.
 
 Tetapkan stock/look proyek lalu catat pengecualian per shot. Sumber cahaya dan kondisi lingkungan tetap berada pada ruang dunia; deskripsi camera-left/right diterjemahkan ulang saat kamera pindah. Bedakan depth komposisi berlapis dari depth of field optik. Angka lensa/aperture dan stock adalah arahan visual, bukan jaminan simulasi model.
 
@@ -59,7 +61,7 @@ Berikan ringkasan konsep singkat, naskah sesuai kebutuhan, shot list, dan daftar
 
 Baca [format shot list dan contoh](references/shotlist-format.md) saat menyusun rencana multi-shot atau menyerahkannya ke tahap prompt video. ID shot dan aset harus tetap konsisten pada revisi; jelaskan perubahan hanya jika memengaruhi produksi.
 
-Hasil siap diteruskan ke penyusun prompt video. Jangan memasukkan token API atau memaksakan sintaks prompt pada naskah. Jika pengguna sudah meminta alur lengkap, lanjutkan tahap berikut menggunakan hasil ini tanpa menjadikan serah-terima sebagai gerbang persetujuan baru.
+Simpan keputusan pada satu daftar shot di catatan produksi bila memakai flow-filmmaking; tahap aset dan prompt meneruskan keputusan ini. Hasil siap diteruskan ke penyusun prompt video. Jangan memasukkan token API atau memaksakan sintaks prompt pada naskah. Jika pengguna sudah meminta alur lengkap, lanjutkan tahap berikut menggunakan hasil ini tanpa menjadikan serah-terima sebagai gerbang persetujuan baru.
 
 ## Pemeriksaan akhir
 

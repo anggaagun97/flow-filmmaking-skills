@@ -1,11 +1,15 @@
 ---
 name: flow-video-prompts
 description: "Tulis, adaptasi atau perbaiki prompt video siap salin untuk Google Flow dengan Veo 3.1 dan Gemini Omni Flash 1.1. Gunakan untuk generasi dari teks, frame atau ingredients, dan revisi klip Omni; sertakan kontinuitas, kamera, suara dan negative prompt sesuai mode. Bukan untuk membuat naskah lengkap, gambar referensi, atau otomatis menjalankan generasi."
+metadata:
+  version: "2.0.0"
 ---
 
 # Prompt video untuk Veo dan Omni di Google Flow
 
 Terjemahkan brief atau shot list menjadi prompt yang mempertahankan cerita, identitas dan keputusan kamera pengguna. Tugas utamanya adalah menulis prompt; jangan mengklaim hasil render atau mengubah provider menjadi layanan lain.
+
+Untuk produksi lengkap gunakan ../flow-filmmaking/SKILL.md. Pakai look bersama dan keputusan shot yang sudah ada; jangan menyusun ulang naskah atau inventaris aset saat revisi prompt.
 
 ## Tentukan konteks yang memengaruhi prompt
 
@@ -71,11 +75,8 @@ Untuk revisi, jelaskan perubahan utama dan berikan prompt penggantinya atau inst
 
 ## Batas eksekusi dan pengulangan
 
-Skill ini menulis prompt; jalankan generasi hanya bila pengguna juga meminta eksekusi. Koreksi format atau pembahasan hasil bukan izin otomatis untuk render ulang. Penggabungan klip pada workflow pengguna ini dilakukan manual.
+Sebelum eksekusi MCP, ikuti aturan nama proyek/aset dan cache per proyek pada bagian "Nama proyek, aset dan pemakaian ulang MCP" di `../flow-reference-assets/SKILL.md`. Muat bagian itu hanya saat eksekusi/pemakaian aset diperlukan. Pakai `asset:<judul-persis>` untuk referensi yang sudah tercatat tersedia; jangan mengirim path lokal berulang. Verifikasi proyek aktif, bukan sekadar parameter folder `project`. Perubahan prompt saja tidak memerlukan daftar aset ulang. Jika references dan frame dikirim bersamaan tetapi mode Composer melewatkan references, selesaikan konflik sebelum submit.
+
+Skill ini menulis prompt; jalankan generasi hanya bila pengguna juga meminta eksekusi. Koreksi format atau pembahasan hasil bukan izin otomatis untuk render ulang. Jika pengguna meminta editing, lanjutkan melalui ../flow-filmmaking/SKILL.md dengan sumber edit dan runtime yang sesuai.
 
 Saat eksekusi diminta: gunakan satu varian per shot dan retry otomatis 0 sebagai awal, tetapkan jumlah generasi yang direncanakan dan biaya yang diketahui. Bila integrasi gagal atau respons ambigu, hentikan submit berikutnya dan cocokkan job dengan aset proyek sebelum mengulang; status gagal pada MCP tidak membuktikan provider belum membuat atau menagih klip. Ambil hasil yang sudah ada lewat download. Diagnosis MCP tidak boleh menjadi rangkaian tes generasi berbayar. Rekonsiliasi saldo dan jumlah aset setelah ketidakpastian sebelum melanjutkan. Batas pengeluaran mencakup seluruh percobaan, bukan hanya klip terpilih; berhenti sebelum batas terlampaui. Buat revisi terarah hanya untuk kegagalan yang menghalangi tujuan shot, dalam ruang iterasi yang telah diizinkan pengguna.
-
-
-## Referensi gerak kamera visual
-
-Untuk riset atau cheat sheet gerak kamera, gunakan Google Flow dengan model Omni Flash 1.1, durasi 4 detik, satu varian per gerakan, lalu simpan hasil sebagai GIF tertaut (bukan embed/base64). Setiap gerakan harus diberi label dan prompt tetap memuat lintasan kamera yang eksplisit, focal length, framing, aperture, fokus/bokeh/DoF, lighting, atmosfer, serta karakter film. GIF adalah interpretasi edukatif untuk membandingkan rasa gerak—bukan pengukuran presisi lintasan kamera.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flow: Produksi Film"
+  short_description: "Produksi Flow, analisis, editing dan review audio"
+  default_prompt: "Gunakan $flow-filmmaking untuk melanjutkan produksi video dari catatan proyek yang tersedia."

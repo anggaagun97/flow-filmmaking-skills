@@ -1,3 +1,9 @@
+# Produksi lengkap v2
+
+Mulai dari $flow-filmmaking untuk produksi, analisis video, editing, review audio atau melanjutkan proyek. Gunakan tiga skill di bawah untuk tugas khusus. Catatan proyek dan daftar shot menjadi sumber keputusan bersama. Editing dapat diteruskan ke OpenMontage dengan FFmpeg, Remotion atau HyperFrames sesuai kebutuhan. Audio diperiksa melalui Earshot.
+
+Panduan tugas khusus berikut tetap berlaku. Jika ada instruksi lama untuk penggabungan manual, workflow v2 dapat mengerjakannya ketika pengguna meminta editing. Referensi lengkap ada di flow-filmmaking/SKILL.md.
+
 # Tiga skill produksi untuk Google Flow
 
 Disusun dari metode terpadu TRY CGI dan riset Google Flow pada 28 Oktober 2026. Target video: Veo 3.1 dan Gemini Omni Flash 1.1. Ketiga skill menyiapkan materi dan prompt; tidak otomatis menjalankan generasi atau memakai kredit.

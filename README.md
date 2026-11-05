@@ -1,4 +1,13 @@
-# Flow Filmmaking Skills
+# Flow Filmmaking Skills v2.0.0
+
+Update 5 November 2026. [Changelog](CHANGELOG.md) · [Versi](VERSION)
+
+Skill utama [flow-filmmaking](flow-filmmaking/SKILL.md) menghubungkan perencanaan, analisis video, generasi Flow MCP, editing FFmpeg/Remotion/HyperFrames dan pemeriksaan audio Earshot. Muat petunjuk tahap yang sedang dipakai. Tiga skill khusus tetap tersedia untuk tugas terpisah.
+
+Contoh penggunaan: `Gunakan $flow-filmmaking untuk melanjutkan proyek saya dari catatan terakhir.`
+
+OpenMontage dipakai sebagai dependensi lokal. Instalasi yang ada dapat digunakan setelah verifikasi root, commit dan runtime. Skill ini tidak memasang runtime atau menyediakan API key. Baca [integrasi dan dependensi](flow-filmmaking/references/editing.md). Pilihan generasi utama memakai sesi Flow MCP. Penghematan belum dibuktikan lewat benchmark produksi.
+
 
 Tiga skill untuk merancang produksi video di **Google Flow**, dengan target **Veo 3.1** dan **Gemini Omni Flash 1.1**.
 
@@ -39,7 +48,7 @@ Gambar merupakan interpretasi edukatif, bukan simulasi optik atau emulasi film s
 - Pada frame-to-video, pertahankan viewpoint dan crop frame awal. Pisahkan sheet identitas dari frame adegan.
 - Negative prompt menyatakan unsur yang tidak diinginkan. Bila tidak ada field negative yang didukung, masukkan larangan yang jelas ke prompt utama.
 - Satu hasil per aset/shot dan tanpa retry otomatis sebagai awal. Jika status MCP ambigu, periksa job, hasil dan saldo sebelum mengulang. Semua percobaan masuk perhitungan biaya.
-- Penggabungan klip dilakukan manual oleh pengguna. Ketiga skill menyusun materi dan prompt; eksekusi generasi memerlukan permintaan pengguna tersendiri.
+- Editing dan penggabungan dapat dijalankan lewat skill flow-filmmaking ketika diminta. Tugas prompt saja tetap menghasilkan prompt.
 
 ## Standar cinematic dan referensi visual
 
@@ -52,7 +61,7 @@ Kode slash/no-slash hanya shorthand opsional bila diminta. Prompt lengkap menjad
 ## Instalasi
 
 1. Clone atau unduh repositori ini.
-2. Salin ketiga folder `flow-reference-assets`, `flow-script-shotlist`, dan `flow-video-prompts` ke direktori skill Codex: `$CODEX_HOME/skills`, atau `~/.codex/skills` bila `CODEX_HOME` tidak ditetapkan. Di Windows, lokasi default adalah `%USERPROFILE%\.codex\skills`.
+2. Salin keempat folder `flow-filmmaking`, `flow-reference-assets`, `flow-script-shotlist`, dan `flow-video-prompts` ke direktori skill Codex: `$CODEX_HOME/skills`, atau `~/.codex/skills` bila `CODEX_HOME` tidak ditetapkan. Di Windows, lokasi default adalah `%USERPROFILE%\.codex\skills`.
 3. Jika folder dengan nama yang sama sudah ada, bandingkan atau cadangkan versi lama sebelum menggantinya.
 4. Mulai chat baru atau muat ulang Codex agar daftar skill terbaru terbaca.
 
